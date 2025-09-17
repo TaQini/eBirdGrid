@@ -14,3 +14,5 @@ Can be exported from eBird [lifelist](https://ebird.org/lifelist/CN-11)
 ## Output format / 输出格式
 PNG image, 12 species per row  
 输出 PNG 图片，每行显示 12 个鸟种  
+
+![example_my_bj](output.png)
